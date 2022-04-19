@@ -706,6 +706,10 @@
 	.post-comment-content-details p + p {
 		margin: 5px 0 0 0;
 	}
+
+	.mt-50 iframe {
+		width: 100%;
+	}
 }
 
 /* Custom, iPhone Retina */ 
