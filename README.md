@@ -5,4 +5,4 @@ Fouad iOS WhatsApp es una versión modificada de WhatsApp que te brinda la apari
 https://sweetmods.github.io/
 
 ## Versión estable
-> Versión 1.7.3 - SweetMods®
+> Versión 1.7.4 - SweetMods®
